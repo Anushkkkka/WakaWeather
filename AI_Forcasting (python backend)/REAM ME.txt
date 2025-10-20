@@ -1,0 +1,15 @@
+AI Weather Confidence Meter – Fiji Edition
+-----------------------------------------
+Run Instructions:
+1. Install Python 3.10 or later
+2. Enter folder directory in terminal
+2. In terminal: pip install -r requirements.txt
+3. Run: python weather_confidence.py
+
+Optional:
+  python weather_confidence.py --alerts   (include GDACS Pacific alerts)
+
+Files Included:
+- weather_confidence.py
+- requirements.txt
+- README.txt
